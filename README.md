@@ -9,9 +9,9 @@
 
 A modern, responsive portfolio website showcasing my skills and experience in Cloud Computing, DevOps, and Web Development.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](http://65.2.181.108)
-[![GitHub](https://img.shields.io/badge/github-repository-blue)](https://github.com/ShubhamCyberStack/portfolio-website)
-[![LinkedIn](https://img.shields.io/badge/linkedin-connect-0077B5)](https://www.linkedin.com/in/shubham-saini-861093267)
+[![Live Demo] http://65.2.181.108
+[![GitHub] https://github.com/ShubhamCyberStack/portfolio-website
+[![LinkedIn] https://www.linkedin.com/in/shubham-saini-861093267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
@@ -492,11 +492,11 @@ If you find any bugs or have suggestions for improvements:
 
 **Shubham Saini**
 
-- **Email:** [exampleShubham@gmail.com](mailto:exampleShubham@gmail.com)
+- **Email:** exampleShubham@gmail.com
 - **Phone:** +91-99997778881
-- **LinkedIn:** [linkedin.com/in/shubham-saini-861093267](https://www.linkedin.com/in/shubham-saini-861093267)
-- **GitHub:** [github.com/ShubhamCyberStack](https://github.com/ShubhamCyberStack)
-- **Portfolio:** [http://65.2.181.108](http://65.2.181.108)
+- **LinkedIn:** https://www.linkedin.com/in/shubham-saini-861093267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- **GitHub:** https://github.com/ShubhamCyberStack
+- **Portfolio:** http://65.2.181.108
 
 ---
 
