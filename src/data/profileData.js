@@ -14,8 +14,8 @@ My journey includes practical experience in Linux administration, DevOps workflo
   
   // Contact Information
   contact: {
-    email: "9138139925(26204)@gmail.com",
-    phone: "+91-9138139925",
+    email: "exampleShubham@gmail.com",
+    phone: "+91-9138134567",
     linkedin: "https://www.linkedin.com/in/shubham-saini-861093267",
     github: "https://github.com/ShubhamCyberStack",
   },
