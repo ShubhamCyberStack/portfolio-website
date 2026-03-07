@@ -10,13 +10,21 @@ import Projects from './components/Projects';
 import Footer from './components/Footer';
 
 function App() {
+
+  // ✅ Build contact object from separate profileData fields
+  const contact = {
+    email: profileData.email,
+    linkedin: profileData.linkedin,
+    github: profileData.github,
+  };
+
   return (
     <div className="App">
       <Header 
         name={profileData.name}
         title={profileData.title}
-        profileImage={profileData.profileImage}
-        contact={profileData.contact}
+        profileImage={profileData.profilePhoto}  // ✅ fixed key
+        contact={contact}                        // ✅ fixed object
       />
       
       <About about={profileData.about} />
@@ -31,7 +39,7 @@ function App() {
       
       <Footer 
         name={profileData.name}
-        contact={profileData.contact}
+        contact={contact}                        // ✅ fixed object
       />
     </div>
   );
